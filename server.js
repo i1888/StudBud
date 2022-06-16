@@ -16,4 +16,4 @@ app.get('/', function(req, res) {
 //Start the server, listening for incoming traffic and logging a message to the console:
 let server = app.listen(8888, function(){
   console.log("App server is running on port 8888");
-});
+}); 
